@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+    <script>
+    var name= {fname:"Otobong", lname:"Ekpo",}
+    var courses= {"html", "Javascript", "Css","Design"};
+    var i;
+    for (let i=0;i<=200;i++){
+    if (i%2!==0) console.log(i);
+    } 
+    </script>
+    </head>
+</html>
+
