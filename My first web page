@@ -1,0 +1,24 @@
+<!Doctype html>
+<html>
+<h1>
+kindly do exactly what you see here as it would affect your score 
+Whether it is your first webpage in life or not,usethe heading above
+it wont bite..
+</h1>
+<h2>
+As a best practice,your webpage should have justone element
+</h2>
+<h3>
+This test is too simple to fail.
+It is simply a test of how much you have been following the course.
+Thanks.. Wait..
+You will have to upload this project to github.. Yea.
+</h3>
+<h4>
+Use the file structure that will be shown here below
+:::first_webpage:::
+        _ _ _ _ _ :::index.html:::
+        _ _ _ _ _ :::style.css :::
+        _ _ _ _ _ :::script.js:::
+</h4>
+</html>
